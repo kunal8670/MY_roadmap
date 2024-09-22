@@ -1,11 +1,11 @@
-<!-- it is not exactly the timeline I am trying to half -->
+## It is not exactly the timeline I am trying to half 
 
 ### **Cybersecurity Career Roadmap Timeline**
 
 #### **September 2024 - November 2024: Foundation**
 
 **1. Networking Fundamentals**
-- **1.1 IP Addressing and Subnetting**  
+- [x] **1.1 IP Addressing and Subnetting**  
   - *1/9/2024 - 15/9/2024*: Learn IP addressing, subnetting basics, and practice with exercises.
 - **1.2 TCP/IP Protocols**  
   - *16/9/2024 - 30/9/2024*: Study TCP/IP protocol suite, review protocol analysis tools.
