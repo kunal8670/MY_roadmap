@@ -1,4 +1,4 @@
-## It is not exactly the timeline I am trying to half 
+## It is not exactly the timeline I am trying to half (SEPTEMBER TO APRIL) -- I HOPE 😉
 
 ### **Cybersecurity Career Roadmap Timeline**
 
